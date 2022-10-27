@@ -24,6 +24,8 @@ Relevant environment variables:
 * GRAFANA_URI: The Grafana Cloud URI to push logs
 * LOKI_USER/GRAFANA_USER: Usernames for authentication to Loki/Grafana Cloud
 * LOKI_PASS/GRAFANA_Pass: Passwords
+* RADIUS: RADIUS host for metrics/logs
+* LDAP: LDAP host for metrics
 
 ## Labels
 Main Labels:
