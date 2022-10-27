@@ -24,8 +24,6 @@ Relevant environment variables:
 * GRAFANA_URI: The Grafana Cloud URI to push logs
 * LOKI_USER/GRAFANA_USER: Usernames for authentication to Loki/Grafana Cloud
 * LOKI_PASS/GRAFANA_Pass: Passwords
-* RADIUS: RADIUS name/IP to connect to in order to get metrics (from FreeRADIUS exporter)
-* LDAP: LDAP name/IP to connect to in order to get metrics (from OpenLDAP exporter)
 
 ## Labels
 Main Labels:
